@@ -1,4 +1,4 @@
-# AI_Research
+# AI Research
 
 This repository contains research materials for the project "Using Generative AI Tools - Boon or Bane". The files are organised into folders based on the type of material and the stage of the research project.
 
@@ -10,7 +10,9 @@ This repository contains research materials for the project "Using Generative AI
 
 - `drafts`: stores draft documents, such as `proposal_draft_v1.docx`.
 
-- `paper_submit`: stores submitted versions of the proposal and paper, such as `proposal_submit_v1.docx` and `paper_submit_v1.pdf`.
+- `paper_submit`: stores the submitted version of the research paper, such as `paper_submit_v1.pdf`.
+
+- `proposal_submit`: stores the submitted version of the research proposal, such as `proposal_submit_v1.docx`.
 
 - `qualitative analysis`: stores qualitative materials, such as interview transcripts and survey question documents.
 
@@ -28,4 +30,4 @@ Some files in this project may contain sensitive research information, such as i
 
 ## Collaboration Guidelines
 
-Team members should use clear commit messages when updating files, so the project history is easy to understand. If a major change is needed, it should be made in a separate branch and reviewed before being merged into the main branch. This helps reduce confusion when multiple people are working on the same project.
+Team members should use clear commit messages when updating files, so the project history is easy to understand. If a major change is needed, it should be made in a separate branch and reviewed before being merged into the main branch.This makes it easier for team members to understand the file content, track updated versions, and find the correct files more clearly.
